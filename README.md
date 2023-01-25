@@ -1,5 +1,15 @@
-# rust-new-project-template
-A good starting point for a new Rust project
+# Ciaran- Demo 1: Guess the Number!!!
+Rust mini exercise 
+Too run, input following command:
+$ cargo run -- play --name "[YOURNAME]"
+For example,
+$ cargo run -- play --name "Joe"
+
+
+
+
+'cargo run -- --help'
+
 
 ## References
 
